@@ -1,0 +1,17 @@
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\AssignPinTest.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\AssignPinTest.pdb
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\obj\Debug\AssignPinTest.csprojAssemblyReference.cache
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\obj\Debug\AssignPinTest.csproj.CoreCompileInputs.cache
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\obj\Debug\AssignPinTest.csproj.CopyComplete
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\obj\Debug\AssignPinTest.dll
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\obj\Debug\AssignPinTest.pdb
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\AssigningPin.exe
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\AssigningPin.pdb
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssignPinTest\bin\Debug\AssigningPin.exe.config

@@ -1,0 +1,7 @@
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\bin\Debug\AssigningPin.exe.config
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\bin\Debug\AssigningPin.exe
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\bin\Debug\AssigningPin.pdb
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\obj\Debug\AssigningPin.csprojAssemblyReference.cache
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\obj\Debug\AssigningPin.csproj.CoreCompileInputs.cache
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\obj\Debug\AssigningPin.exe
+D:\Users\capitaljps\Documents\Visual Studio 2017\Projects\AssigningPin\AssigningPin\obj\Debug\AssigningPin.pdb
